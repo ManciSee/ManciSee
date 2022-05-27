@@ -1,13 +1,13 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Ciao <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sono Sergio</h1>
+<h1 align="center">Ciao <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />, Sono Sergio</h1>
 
 
 ## 🙋‍♂️ About Me
 
 - 🌱 Attualmente sto studiando **[Informatica](https://www.unict.it/)**
-
+ 
 - 👯 Spero di collaborare a **Progetti OpenSource**
 
 - 📫 Come raggiungermi **sergio201m@libero.it**
